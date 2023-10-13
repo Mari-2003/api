@@ -136,5 +136,6 @@ const loginuser=async(req,res)=>{
 module.exports ={
     registerUser,
     loginuser,
+    
     accessuser
 }
